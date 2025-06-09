@@ -22,6 +22,7 @@ Third, Define the task triggers - when it will be executed
 ![Task Trigger](/Extraction_Folder/Create_Trigger.png)
 
 Finally, add the action. Using my installed Python Application, I specified the python execution file and folder where they would be found on my computer.
+
 ![Task Trigger](/Extraction_Folder/Create_Action.png)
 
 ### Transformation
