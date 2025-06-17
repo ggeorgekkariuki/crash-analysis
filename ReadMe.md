@@ -50,3 +50,13 @@ I used the *[SQL Scripts ](/SQL%20Code/)* to create both the fact and dimension 
 ### Value Addition
 
 I connected the PostgreSQL data to my *Power BI* to create the *[dashboard visualisations](/Crash%20Data%20Presentation.pbix)* for a more efficient narration of the summarised data.
+
+_Overview_
+
+![PowerBi Overview](/Dashboard%20Snapshots/Crash%20-%20Overview.png)
+
+_Driver Insights_
+![Driver Insights](/Dashboard%20Snapshots/Crash%20-%20Driver%20Behaviour.png)
+
+_Weather_
+![PowerBi Weather](/Dashboard%20Snapshots/Crash%20-%20Weather.png)
